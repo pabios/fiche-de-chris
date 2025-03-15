@@ -15,6 +15,18 @@ Vous trouverez ici des dossiers et fichiers en **Markdown** pour faciliter la le
 
 Le format Markdown est léger, facile à lire directement dans GitHub et pratique pour réviser ou annoter les contenus sans avoir à télécharger de fichiers.
 
+## Indications de Chris
+
+Pour vous aider dans votre préparation, consultez les fichiers ci-dessous :
+
+- [01-contexte.md](01-contexte.md)
+- [02-enjeux.md](02-enjeux.md)
+- [03-concepts-theorie.md](03-concepts-theorie.md)
+- [04-benchmark.md](04-benchmark.md)
+- [05-reponse-strategique.md](05-reponse-strategique.md)
+- [06-professionnalisme-pragmatisme.md](06-professionnalisme-pragmatisme.md)
+- [07-questions-jury.md](07-questions-jury.md)
+
 ## Merci de votre participation !
 
-N’hésitez pas à apporter vos idées, vos corrections ou vos améliorations. Toute contribution est la bienvenue ! 
+N’hésitez pas à apporter vos idées, corrections ou améliorations. Toute contribution est la bienvenue !
